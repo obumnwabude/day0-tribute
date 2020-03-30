@@ -1,4 +1,4 @@
-# DAY 0: A Tribute Page 
+# Day 0: A Tribute Page 
 
 ## Description
 The simplest website you can make as a beginner is a tribute page of someone you admire in
@@ -8,4 +8,4 @@ details. You can use paragraphs, lists, links, images with CSS to give it a dece
 suitable background color and font style on your webpage. Most of the parts you can make
 using HTML but to give it a better look using a bit of CSS.
 
-#### This project is part of 30 DAYS OF CODE (FrontEnd) by ECX
+#### This project is part of 30 Days Of Code (FrontEnd) by [ECX](https://www.ecx.website/)

@@ -1,0 +1,16 @@
+html, body, main {
+  margin: 0;
+  padding: 0;
+}
+
+.image-container img {
+  width: 280px;
+  height: 280px;
+  border: 5px solid black;
+  border-radius: 250px;
+  margin: 0 auto;
+}
+
+.image-container h1 {
+  max-width: 400px;
+}
